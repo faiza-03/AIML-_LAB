@@ -16,4 +16,4 @@ LAB-08:[DECISION TREES FOR CLASSIFICATION](https://github.com/faiza-03/AIML-_LAB
 
 LAB-O9:[IMPLEMENT RANDOM FORESTNENSABLE MODEL USING LEADING DATA](https://github.com/faiza-03/AIML-_LAB/blob/main/lab_09.ipynb)
 
-LAB-10:[
+LAB-10:[](https://github.com/faiza-03/AIML-_LAB/blob/main/lab_10_ipynb.ipynb)
